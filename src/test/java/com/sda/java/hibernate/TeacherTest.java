@@ -2,7 +2,6 @@ package com.sda.java.hibernate;
 
 import com.sda.java.hibernate.domain.Teacher;
 import com.sda.java.hibernate.util.HibernateUtil;
-import java.time.LocalDate;
 import java.util.Date;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
